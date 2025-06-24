@@ -1,0 +1,12 @@
+Quiz Session Report
+-------------------
+User ID: 536055216
+Username: wolinka_kalinka
+Session ID: 1
+Start Time: 2025-06-24 07:04:02
+End Time: 2025-06-24 10:04:18
+Correct Answers: 1
+Total Questions: 5
+Percentage: 20.00%
+Status: finished
+-------------------
